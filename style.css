@@ -1,0 +1,20 @@
+h1{
+    font-family:monospace;
+}
+body{
+background-color:#989AAE;
+}
+#estadorio {
+font-size: 25px;
+background-color: bisque;
+}
+.listadeso{
+background-color: black;
+text-align: end;
+}
+.listaord{
+font-size: 25px;
+text-align: center;
+text-decoration: overline;
+}
+
